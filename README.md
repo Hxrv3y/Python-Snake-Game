@@ -1,2 +1,2 @@
 # Python-Snake-Game
-Snake game made in Python
+Simple Snake game made in Python use and edit as you like.
